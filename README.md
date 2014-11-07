@@ -16,6 +16,6 @@ Environment
 Steps to reproduce
 ==========
 
-1. Build project for **iPhone 6 8.1 simulator**
+1. Build Calabash target project for **iPhone 6**
 2. Execute `bundle`
 3. Execute `DEBUG=1 DEBUG_HTTP=1 DEVICE_TARGET='iPhone 6 (8.1 Simulator)' cucumber`
